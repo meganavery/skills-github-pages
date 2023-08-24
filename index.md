@@ -1,4 +1,4 @@
 ---
-title: megan's page
+title: megan's blog
 ---
 
